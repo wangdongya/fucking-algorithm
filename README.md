@@ -1,8 +1,8 @@
-English translation is processing…… Star this repo and go back sonn：)
+English version repo and Gitbook is on [english branch](https://github.com/labuladong/fucking-algorithm/tree/english). Just enjoy：)
 
-没想到两天就火了，招募翻译组啦，有兴趣可查看这个置顶 [issue](https://github.com/labuladong/fucking-algorithm/issues/9)，成为本仓库的贡献者就是这么容易！
+没想到两天就火了，招募翻译组啦，成为本项目的贡献者非常简单，请 [点击这里](https://github.com/labuladong/fucking-algorithm/issues/9) 查看详情～
 
-# 一、前言
+# 前言
 
 本仓库总共 60 多篇原创文章，基本上都是基于 LeetCode 的题目，涵盖了所有题型和技巧，而且一定要做到**举一反三，通俗易懂**，绝不是简单的代码堆砌，后面有目录。
 
@@ -22,13 +22,21 @@ English translation is processing…… Star this repo and go back sonn：)
 
 3、可以关注我的公众号 **labuladong** 及时获取更新。我不喜欢转载乱七八糟的低质文章，**坚持高质量原创，说是最良心最硬核的技术公众号都不为过**。
 
-这些文章就是从公众号里整理出来的，目前主要发文平台是微信公众号，公众号后台回复关键词【电子书】可以获得这份小抄的电子书版本，方便你做笔记：
+本仓库的文章就是从公众号里整理出来的一部分内容，目前主要发文平台是微信公众号，公众号后台回复关键词【电子书】可以获得这份小抄的电子书版本，方便你做笔记：
 
 <img src="./pictures/qrcode.jpg" width = "250" height = "250" alt="brutal" align=center />
 
 其他的先不多说了，直接上干货吧，我们一起日穿 LeetCode，感受一下支配算法的乐趣。
 
-# 二、文章目录
+**PS：如果仅是 clone 此仓库学习（不是参与翻译工作）的话，请使用如下 Git 命令**：
+
+```shell
+git clone --depth 1 https://github.com/labuladong/fucking-algorithm.git
+```
+
+这样会限制 clone 的深度，不会下载 Git 协作的历史记录，可以极大加快下载速度。
+
+# 目录
 
 * 第零章、必读系列
   * [学习算法和刷题的框架思维](算法思维系列/学习数据结构和算法的高效方法.md)
@@ -71,6 +79,7 @@ English translation is processing…… Star this repo and go back sonn：)
 * 第三章、算法思维系列
   * [算法学习之路](算法思维系列/算法学习之路.md)
   * [回溯算法详解](算法思维系列/回溯算法详解修订版.md)
+  * [回溯算法团灭排列、组合、子集问题](高频面试系列/子集排列组合.md)
   * [二分查找详解](算法思维系列/二分查找详解.md)
   * [双指针技巧总结](算法思维系列/双指针技巧.md)
   * [滑动窗口技巧](算法思维系列/滑动窗口技巧.md)
@@ -98,6 +107,7 @@ English translation is processing…… Star this repo and go back sonn：)
   * [如何k个一组反转链表](高频面试系列/k个一组反转链表.md)
   * [如何判定括号合法性](高频面试系列/合法括号判定.md)
   * [如何寻找消失的元素](高频面试系列/消失的元素.md)
+  * [如何寻找缺失和重复的元素](高频面试系列/缺失和重复的元素.md)
   * [如何判断回文链表](高频面试系列/判断回文链表.md)
   * [如何在无限序列中随机抽取元素](高频面试系列/水塘抽样.md)
   * [如何调度考生的座位](高频面试系列/座位调度.md)
@@ -112,6 +122,48 @@ English translation is processing…… Star this repo and go back sonn：)
   * [加密算法的前身今世](技术/密码技术.md)
   * [Git/SQL/正则表达式的在线练习平台](技术/在线练习平台.md)
 
+# 感谢如下大佬参与翻译
+
+按照昵称字典序排名：
+
+[ABCpril](https://github.com/ABCpril), 
+[andavid](https://github.com/andavid), 
+[build2645](https://github.com/build2645), 
+[CarrieOn](https://github.com/CarrieOn), 
+[Fulin Li](https://fulinli.github.io/), 
+[Funnyyanne](https://github.com/Funnyyanne), 
+[GYHHAHA](https://github.com/GYHHAHA), 
+[Hi_archer](https://hiarcher.top/), 
+[Iruze](https://github.com/Iruze), 
+[Jieyixia](https://github.com/Jieyixia), 
+[Justin](https://github.com/Justin-YGG), 
+[Kevin](https://github.com/Kevin-free), 
+[Lrc123](https://github.com/Lrc123), 
+[lriy](https://github.com/lriy), 
+[Master-cai](https://github.com/Master-cai), 
+[miaoxiaozui2017](https://github.com/miaoxiaozui2017), 
+[nettee](https://github.com/nettee), 
+[PaperJets](https://github.com/PaperJets), 
+[SCUhzs](https://github.com/HuangZiSheng001), 
+[Seaworth](https://github.com/Seaworth), 
+[shazi4399](https://github.com/shazi4399), 
+[ShuozheLi](https://github.com/ShuoZheLi/), 
+[sinjoywong](https://blog.csdn.net/SinjoyWong), 
+[sunqiuming526](https://github.com/sunqiuming526), 
+[Tianhao Zhou](https://github.com/tianhaoz95), 
+[timmmGZ](https://github.com/timmmGZ), 
+[wadegrc](https://github.com/wadegrc), 
+[walsvid](https://github.com/walsvid), 
+[warmingkkk](https://github.com/warmingkkk), 
+[wsyzxxxx](https://github.com/wsyzxxxx), 
+[xiaodp](https://github.com/xiaodp), 
+[youyun](https://github.com/youyun), 
+[Zero](https://github.com/Mr2er0), 
+[Ziming](https://github.com/ML-ZimingMeng/LeetCode-Python3)
+
+
 # Donate
+
+如果本仓库对你有帮助，可以请作者喝杯速溶咖啡
 
 <img src="pictures/pay.jpg" width = "216" height = "300" alt="brutal" align=center />
